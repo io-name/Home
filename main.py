@@ -47,4 +47,4 @@ def temperature_deploy():
     return temp
 
 if __name__ == "__main__":
-    app.run(debug=False, host="192.168.88.17", port="80")
+    app.run(debug=False, host="192.168.88.50", port="80")
