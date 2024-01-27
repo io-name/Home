@@ -1,4 +1,4 @@
-
+# -*- coding: utf-8 -*-
 # рабочий цикл flask-а
 
 import pages
